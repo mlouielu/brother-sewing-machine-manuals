@@ -1,5 +1,7 @@
 # I Scraped Brother USA Website To Figure Out Which Sewing Machine Has One Function (Thread Cutter Button) That I Want
 
+See the [full story here](https://blog.louie.lu/2025/01/24/i-scraped-brother-usa-website-to-figure-out-which-sewing-machine-has-one-function-thread-cutter-button-that-i-want/)
+
 ## Prerequisite
 
 - requests
